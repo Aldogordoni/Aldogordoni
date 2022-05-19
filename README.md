@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **AI and Machine Learning**
 - 🌱 I’m currently learning **TensorFlow - Neural Networks**
-- 💬 Ask me about **Automata and Language Theory**
+- 💬 Ask me about **Automata and Language Theory** | **Ray Tracing and Supersampling**
 - 📫 How to reach me: aldogordoni@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been playing the violin for 8 years and I enjoy playing songs from Ghibli studio movies!
