@@ -43,13 +43,15 @@ Here are some ideas to get you started:
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/></a>
   
 </p>
-<br><br>
+<br><be>
 
 
 
-//<p align="center"> 
-//  <img src="https://github-readme-stats.vercel.app/api?username=aldogordoni&show_icons=true&theme=radical" />
-//</p>
+<--!
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=aldogordoni&show_icons=true&theme=radical" />
+</p>
+-->
 
 <p align="center"> 
   Thank you for stopping by!<br>
