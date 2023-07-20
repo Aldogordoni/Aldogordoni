@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=aldogordoni&show_icons=true&theme=radical" />
-</p>
+//<p align="center"> 
+//  <img src="https://github-readme-stats.vercel.app/api?username=aldogordoni&show_icons=true&theme=radical" />
+//</p>
 
 <p align="center"> 
   Thank you for stopping by!<br>
